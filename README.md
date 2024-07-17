@@ -1,3 +1,5 @@
 # TnsorGo-Assignment
 <br>
 The integration of pre-trained multilingual speech recognition models with Retrieval-Augmented Generation (RAG) presents a groundbreaking approach to developing sophisticated speech-to-text systems. This combination leverages the strengths of both technologies, enabling the creation of highly accurate and efficient transcription tools that can handle multiple languages seamlessly. The use of key error metrics, such as Word Error Rate (WER) and Character Error Rate (CER), is pivotal in evaluating and refining these systems, ensuring that they meet high standards of performance. This project effectively demonstrates the feasibility of constructing a multilingual speech recognition system without the need for extensive additional training, thereby significantly reducing development time and resource expenditure. By showcasing the potential of this integrated approach, the project paves the way for further advancements in the domain, fostering innovation and encouraging the development of even more versatile and powerful speech recognition technologies.
+<br>
+<a href="https://go.screenpal.com/watch/cZibFiVPlAq">Video Explaination
